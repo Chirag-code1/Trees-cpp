@@ -58,6 +58,5 @@ int main()
     cout << "Right View of the tree (Iterative method): ";
     right_view(root);
     cout << endl;
-
     return 0;
 }
