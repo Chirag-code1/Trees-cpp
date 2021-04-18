@@ -40,7 +40,7 @@ int main()
     root->right->left->left = new TreeNode('B');
     root->right->left->left->right = new TreeNode('G');
 
-    
+   
    int max_level = -1;
     cout << "Right View of the tree (Recursive method): ";
     right_view(root, max_level, 0);
