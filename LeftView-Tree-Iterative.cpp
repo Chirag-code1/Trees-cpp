@@ -56,6 +56,5 @@ int main()
     left_view(root);
     cout << endl;
 
-
     return 0;
 }
