@@ -43,6 +43,5 @@ int main()
     cout << "Left View of the tree (Recursive method): ";
     left_view(root, max_level, 0);
     cout << endl;
-
    return 0;
 }
