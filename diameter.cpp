@@ -44,6 +44,5 @@ int main()
     int d = 0;
     height(root, d);
     cout << d << endl;
-
     return 0;
 }
