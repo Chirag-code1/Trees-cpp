@@ -37,9 +37,9 @@ void preorder(node *t)		//address of root node is passed in t
 {
 	if(t!=NULL)
 	{
-		printf("\n%d",t->data);		//visit the root
-		preorder(t->left);		//preorder traversal on left subtree
-		preorder(t->right);		//preorder traversal om right subtree
+	printf("\n%d",t->data);		//visit the root
+	preorder(t->left);		//preorder traversal on left subtree
+	preorder(t->right);		//preorder traversal om right subtree
 	}
 }
  
