@@ -46,7 +46,6 @@ int main() {
 
   insertLeft(root->left, 5);
   insertRight(root->left, 6);
-
   printf("\nPostorder traversal \n");
   postorderTraversal(root);
 }
