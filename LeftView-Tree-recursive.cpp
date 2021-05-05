@@ -21,7 +21,7 @@ void left_view(TreeNode *node, int& max_level, int level)
        return;
     if (max_level < level)
     {
-        cout << node->val << " ";
+       cout << node->val << " ";
         max_level = level;
     }
     left_view(node->left, max_level, level + 1);
