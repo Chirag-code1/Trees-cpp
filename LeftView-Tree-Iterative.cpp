@@ -23,7 +23,7 @@ void left_view(TreeNode *node)
     queue<TreeNode*> q;
     q.push(node);
 
-    while (!q.empty())
+    while ( !q.empty() )
     {
         int size = q.size();
         for (int i=1; i <= size; i++)
