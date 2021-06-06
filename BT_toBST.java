@@ -112,7 +112,7 @@ public class Main{
 		printInorder(node.right);
 	}
 
-	/* Driver function to test above functions */
+	/* Main Driver function to test above functions */
 	public static void main(String args[])
 	{
 		Node root = null;
