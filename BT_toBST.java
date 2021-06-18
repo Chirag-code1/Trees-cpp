@@ -49,7 +49,6 @@ public class Main{
 		// Base Case
 		if (root == null)
 			return;
-
 		/* first update the left subtree */
 		arrayToBST(arr, root.left);
 
