@@ -56,6 +56,7 @@ int main()
     root->right->left->left->right = new TreeNode('G');
 
     cout << "Right View of the tree (Iterative method): ";
+    
     right_view(root);
     cout << endl;
     return 0;
