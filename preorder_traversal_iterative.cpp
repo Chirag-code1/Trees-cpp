@@ -47,5 +47,6 @@ int main()
     cout << "Preorder Traversal: ";
     preorder_traversal(root);
     cout << endl;
+
     return 0;
 }
