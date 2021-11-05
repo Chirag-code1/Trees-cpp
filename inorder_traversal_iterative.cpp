@@ -52,5 +52,6 @@ int main()
     cout << "Inorder Traversal: ";
     inorder_traversal(root);
     cout << endl;
+
     return 0;
 }
