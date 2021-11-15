@@ -1,3 +1,4 @@
+
 int areSameTree(struct Node* t1, struct Node* t2)
 {
 	if(t1 == NULL && t2 == NULL)
