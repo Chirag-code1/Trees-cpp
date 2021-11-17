@@ -40,7 +40,7 @@ static void NthInorder( Node node, int n)
             System.out.printf("%d ", node.data);
    
         /* now recur on right child */
-        NthInorder(node.right, n);
+        NthInorder(node.right,n);
     }
 }
 
