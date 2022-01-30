@@ -12,4 +12,4 @@ int areSameTree(struct Node* t1, struct Node* t2)
   	if(!areSameTree(t1->right, t2->right))
       return 0;
   	return 1;
-}
+} //revised.
