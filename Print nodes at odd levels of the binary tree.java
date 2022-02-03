@@ -23,4 +23,4 @@ class Result {
     		isOdd = !isOdd;
     	}
   }
-}
+} //revised.
