@@ -44,4 +44,4 @@ int main()
     left_view(root, max_level, 0);
     cout << endl;
    return 0;
-}
+} //revised.
