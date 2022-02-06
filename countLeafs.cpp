@@ -7,4 +7,4 @@ int countLeafs(struct Node* root)
     else 
     return
     countLeafs(root->left) + countLeafs(root->right);
-}
+} //revised.
