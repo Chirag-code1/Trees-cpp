@@ -5,3 +5,4 @@ int countNonLeafs(struct Node* root)
   return 
     1+countNonLeafs(root->left)+countNonLeafs(root->right);
 }
+//revised.
