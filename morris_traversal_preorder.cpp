@@ -69,4 +69,4 @@ int main()
     morris_preorder_traversal(root);
     cout << endl;
     return 0;
-}
+} //revised.
