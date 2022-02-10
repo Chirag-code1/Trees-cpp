@@ -69,4 +69,4 @@ int main()
     morris_inorder_traversal(root);
     cout << endl;
     return 0;
-}
+} //revised.
