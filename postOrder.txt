@@ -48,4 +48,4 @@ int main() {
   insertRight(root->left, 6);
   printf("\nPostorder traversal \n");
   postorderTraversal(root);
-}
+} //revised.
